@@ -3,6 +3,8 @@ A is an Apple
 B is a Banana
 C is a Car
 D is a dog
+E is an elephant
+F is a fish
 Why c is not a cat
 I dont know
 Ha!
@@ -12,6 +14,7 @@ This is End
 
 Today is 11-15
 is a sunny day
+Raining is tmorrow
 i will go to work all day
 i so sad
 
